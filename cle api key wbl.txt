@@ -1,0 +1,4 @@
+<script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBKV0O0K-uYYwoWonPGTTqMlClcPuNvFPs&callback=initMap&v=weekly"
+      defer
+    ></script>

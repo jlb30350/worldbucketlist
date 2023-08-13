@@ -14,7 +14,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 var data = [{
   id: 1,
-  imagePath: "images/img_tahiti.jpg",
+  imagePath: "./images/img_tahiti.jpg",
   description: "Sonia à Tahiti",
   done: false,
   link: "https://lesdeuxpiedsdehors.com/bungalow-pilotis-polynesie-francaise/",

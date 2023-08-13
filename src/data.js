@@ -12,7 +12,7 @@ const data = [
   },
   {
     id: 2,
-    imagePath: "images/img_Tanzanie.jpg",
+    imagePath: "/images/img_Tanzanie.jpg",
     description: "Sonia en Tanzanie",
     done: false,
     link: "http://mf-safaris.fr/",

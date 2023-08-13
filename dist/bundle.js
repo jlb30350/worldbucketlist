@@ -24,7 +24,7 @@ var data = [{
   }
 }, {
   id: 2,
-  imagePath: "images/img_Tanzanie.jpg",
+  imagePath: "./images/img_Tanzanie.jpg",
   description: "Sonia en Tanzanie",
   done: false,
   link: "http://mf-safaris.fr/",
@@ -34,7 +34,7 @@ var data = [{
   }
 }, {
   id: 3,
-  imagePath: "images/img_islande.jpg",
+  imagePath: "./images/img_islande.jpg",
   description: "Sonia en Islande",
   done: true,
   link: "https://www.momondo.fr/hotel/reykjavik",
@@ -44,7 +44,7 @@ var data = [{
   }
 }, {
   id: 4,
-  imagePath: "images/img_maldives.jpg",
+  imagePath: "./images/img_maldives.jpg",
   description: "Maison sur pilotis aux Maldives",
   done: false,
   link: "https://www.dreamingofmaldives.com/blog-des-maldives/les-plus-belles-villas-sur-pilotis-que-nous-ayons-vu-aux-maldives-notre-selection-en-photos/",
@@ -54,7 +54,7 @@ var data = [{
   }
 }, {
   id: 5,
-  imagePath: "images/img_florence.jpg",
+  imagePath: "./images/img_florence.jpg",
   description: "Sonia à Florence",
   done: false,
   link: "https://florencesite.fr/",
@@ -64,7 +64,7 @@ var data = [{
   }
 }, {
   id: 6,
-  imagePath: "images/img_paris.jpg",
+  imagePath: "./images/img_paris.jpg",
   description: "Monter sur la Tour Eiffel",
   done: true,
   link: "http://www.toureiffel.paris/",

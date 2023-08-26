@@ -10,13 +10,47 @@
 }
 
 #album {
-  position: absolute;
+
   z-index: 10;
   left: calc(50% - 80px);
-  top: 85px;
-  width: 250px;
+  top: 56px;
+  width: 150px;
   color: #f1f4f5;
-  height: 35px;
+  height: 30px;
+  background-color: rgb(127, 150, 255);
+}
+
+.album.btn.btn-secondary.btn-sm{
+
+
+padding: 10px 20px;
+background-color: red;
+color: white;
+border: none;
+border-radius: 5px;
+margin: right;
+width: 15px;
+text-align: center;
+
+}
+
+#reset-map, #back-to-map{
+  position: absolute;
+    z-index: 10;
+    left: calc(50% - 75px);
+    top: 10px;
+    width: 15px;
+    background-color: #3498db;
+    margin: 1px;
+   
+}
+
+.btn-group-sm>.btn, .btn-sm {
+    padding: 0.2rem 0.5rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    border-radius: 0.2rem;
+   
 }
 
 html,

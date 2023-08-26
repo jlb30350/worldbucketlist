@@ -10,7 +10,7 @@
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "data": () => (/* binding */ data)
+/* harmony export */   data: () => (/* binding */ data)
 /* harmony export */ });
 var data = [{
   id: 1,
@@ -85,7 +85,7 @@ var data = [{
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "buildAllDreams": () => (/* binding */ buildAllDreams)
+/* harmony export */   buildAllDreams: () => (/* binding */ buildAllDreams)
 /* harmony export */ });
 /* harmony import */ var _data__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./data */ "./src/data.js");
 /* harmony import */ var _map__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./map */ "./src/map.js");
@@ -142,9 +142,9 @@ function toggleDreamDone(dreamId) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "addMarkerOnMap": () => (/* binding */ addMarkerOnMap),
-/* harmony export */   "initMap": () => (/* binding */ initMap),
-/* harmony export */   "visitDreamOnMap": () => (/* binding */ visitDreamOnMap)
+/* harmony export */   addMarkerOnMap: () => (/* binding */ addMarkerOnMap),
+/* harmony export */   initMap: () => (/* binding */ initMap),
+/* harmony export */   visitDreamOnMap: () => (/* binding */ visitDreamOnMap)
 /* harmony export */ });
 var map;
 var panorama;
